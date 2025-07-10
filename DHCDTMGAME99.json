@@ -8,5 +8,10 @@
     "user": "TheVinh",
     "pass": "123",
     "vip": true
+  },
+  {
+    "user": "DucAnh",
+    "pass": "123",
+    "vip": true
   }
 ]
