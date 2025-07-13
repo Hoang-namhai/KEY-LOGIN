@@ -1,7 +1,7 @@
 [
   {
     "user": "Admin",
-    "pass": "123",
+    "pass": "12345",
     "vip": true
   },
   {
@@ -13,5 +13,11 @@
     "user": "DucAnh",
     "pass": "123",
     "vip": true
+  },
+  {
+    "user": "Vuong",
+    "pass": "123",
+    "vip": true
   }
 ]
+
