@@ -23,6 +23,11 @@
     "user": "HaTien",
     "pass": "33333",
     "vip": true
+  },
+   {
+    "user": "DucTrung",
+    "pass": "123",
+    "vip": true
   }
 ]
 
