@@ -18,6 +18,11 @@
     "user": "Vuong",
     "pass": "123",
     "vip": true
+  },
+  {
+    "user": "HaTien",
+    "pass": "33333",
+    "vip": true
   }
 ]
 
