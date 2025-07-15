@@ -1,0 +1,27 @@
+[
+  {
+    "user": "Admin",
+    "pass": "12345",
+    "vip": true
+  },
+  {
+    "user": "GiangFlute",
+    "pass": "123",
+    "vip": true
+  },
+    {
+    "user": "HaTienV1",
+    "pass": "123",
+    "vip": true
+  },
+    {
+    "user": "DucTrungV1",
+    "pass": "123",
+    "vip": true
+  }
+]
+
+
+
+
+
