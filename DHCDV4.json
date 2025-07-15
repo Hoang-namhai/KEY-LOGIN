@@ -1,0 +1,17 @@
+[
+  {
+    "user": "Admin",
+    "pass": "12345",
+    "vip": true
+  },
+  {
+    "user": "DucAnhV4",
+    "pass": "123",
+    "vip": true
+  },
+    {
+    "user": "HaTienV4",
+    "pass": "123",
+    "vip": true
+  }
+]
