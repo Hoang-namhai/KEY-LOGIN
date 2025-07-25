@@ -1,26 +1,26 @@
 [
   {
-    "user": "0609",
-    "vip": true
+    "Key": "0609",
+    "Vip": true
   },
   {
-    "user": "TheVinhV4",
-    "vip": true
+    "Key": "TheVinhV4",
+    "Vip": true
   },
   {
-    "user": "GiangFluteV4",
-    "vip": true
+    "Key": "GiangFluteV4",
+    "Vip": true
   },
   {
-    "user": "DucAnhV4",
-    "vip": true
+    "Key": "DucAnhV4",
+    "Vip": true
   },
     {
-    "user": "HaTienV4",
-    "vip": true
+    "Key": "HaTienV4",
+    "Vip": true
   },
   {
-    "user": "BinleeV4",
-    "vip": true
+    "Key": "BinleeV4",
+    "Vip": true
   }
 ]
