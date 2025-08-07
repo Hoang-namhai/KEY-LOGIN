@@ -1,16 +1,16 @@
 [
   {
-    "key": "0609",
+    "key": "2002",
     "uid": "UIDADMINVIP",
-    "status": "OK",
-    "end_date": "2025-08-10",
+    "status": "ADMIN",
+    "end_date": "9999-12-31",
     "active": true
   },
   {
     "key": "9999",
-    "uid": "UIDTEST",
+    "uid": "",
     "status": "OK",
-    "end_date": "2025-08-09",
-    "active": true
+    "end_date": "2025-08-15",
+    "active": false
   }
 ]
