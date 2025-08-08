@@ -1,6 +1,7 @@
 {
-  "allowed_uids": [
-    "f4d3c2b1a0e9d8c7b6a5f4d3c2b1a0e9d8c7b6a5f4d3c2b1a0e9d8c7b6a5f4",
-    "abcd1234efgh5678ijkl9012mnop3456qrst7890uvwx5678yzab9012cdef3456"
+  "uids": [
+    "UID1",
+    "UID2",
+    "UID3"
   ]
 }
