@@ -1,1 +1,22 @@
-
+{
+  "uids": [
+    {
+      "uid": "ABCDEF123456",
+      "expire": "31-12-2025",
+      "status": "VIP",
+      "active": true
+    },
+    {
+      "uid": "ZYX987654321",
+      "expire": "15-09-2025",
+      "status": "Normal",
+      "active": false
+    },
+    {
+      "uid": "112233445566",
+      "expire": "30-08-2025",
+      "status": "Trial",
+      "active": true
+    }
+  ]
+}
