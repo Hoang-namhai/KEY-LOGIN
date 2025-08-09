@@ -1,14 +1,9 @@
-{
+[
+  {
     "Key": "0609",
     "UID": "84843dca76928990",
-    "end_date": "31-12-9999",
     "Active": true,
+    "end_date": "31-12-2025",
     "Status": "ADMIN"
-  },
-  {
-    "Key": "2002",
-    "UID": "84843dca76928990kkk",
-    "end_date": "31-12-2024",
-    "Active": true,
-    "Status": "Test"
   }
+]
