@@ -1,0 +1,33 @@
+[
+  {
+    "Key": "0609",
+    "UID": "84843dca76928990",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN"
+  },
+  
+  {
+    "Key": "2002",
+    "UID": "84843dca76928990",
+    "Active": true,
+    "end_date": "13-08-2025",
+    "Status": "Test0"
+  },
+  
+  {
+    "Key": "1234",
+    "UID": "84843dca76928990",
+    "Active": false,
+    "end_date": "10-08-2025",
+    "Status": "Test1"
+  },
+  
+  {
+    "Key": "8888",
+    "UID": "84843dca76928990",
+    "Active": true,
+    "end_date": "31-12-2002",
+    "Status": "Test2"
+  }
+]
