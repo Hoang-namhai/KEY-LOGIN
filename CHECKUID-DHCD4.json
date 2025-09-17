@@ -8,15 +8,13 @@
     "UID": "84843dca76928990",
     "Active": true,
     "end_date": "31-12-9999",
-    "Status": "ADMIN",
-    "Vip": true
+    "Status": "ADMIN"
   },
   {
     "Key": "2002",
     "UID": "84843dca76928990",
     "Active": true,
     "end_date": "31-08-2029",
-    "Status": "Test0",
-    "Vip": false
+    "Status": "Test0"
   }
 ]
