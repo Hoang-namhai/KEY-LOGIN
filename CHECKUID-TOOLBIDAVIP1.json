@@ -13,7 +13,7 @@
   },
   {
     "Key": "2002",
-    "UID": "9feee03d75d6f556",
+    "UID": "3ec3a5b17b8d38fc",
     "Active": true,
     "end_date": "31-08-2029",
     "Status": "Test0",
@@ -40,6 +40,14 @@
     "UID": "98a0069e38e8fbc2",
     "Active": true,
     "end_date": "10-10-2025",
+    "Status": "",
+    "vip": true
+  },
+  {
+    "Key": "123",
+    "UID": "3ec3a5b17b8d38fc",
+    "Active": true,
+    "end_date": "08-11-2025",
     "Status": "",
     "vip": true
   }
