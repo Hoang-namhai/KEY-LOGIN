@@ -20,26 +20,10 @@
     "vip": false
   },
   {
-    "Key": "1234",
-    "UID": "2bd97c96dcfdd83a",
-    "Active": true,
-    "end_date": "10-10-2025",
-    "Status": "",
-    "vip": true
-  },
-  {
     "Key": "12345",
     "UID": "9feee03d75d6f556",
     "Active": true,
     "end_date": "15-10-2025",
-    "Status": "",
-    "vip": true
-  },
-    {
-    "Key": "8888",
-    "UID": "98a0069e38e8fbc2",
-    "Active": true,
-    "end_date": "10-10-2025",
     "Status": "",
     "vip": true
   },
@@ -81,6 +65,14 @@
     "Active": true,
     "end_date": "09-11-2025",
     "Status": "Cuộc Sống",
+    "vip": false
+  },
+  {
+    "Key": "1111",
+    "UID": "1fe0c047a4e9bbd4",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Hoangvanquet",
     "vip": false
   }
 ]
