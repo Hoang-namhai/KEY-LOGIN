@@ -74,5 +74,13 @@
     "end_date": "08-11-2025",
     "Status": "Thiếu Gia Họ Triệu",
     "vip": false
+  },
+  {
+    "Key": "5555",
+    "UID": "e8f16a650dc08e05",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Cuộc Sống",
+    "vip": false
   }
 ]
