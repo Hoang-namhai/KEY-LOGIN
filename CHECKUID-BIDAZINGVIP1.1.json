@@ -1,0 +1,166 @@
+[
+  {
+    "Server": true,
+    "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
+  },
+  {
+    "Key": "0609",
+    "UID": "84843dca76928990",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "vip": false
+  },
+  {
+    "Key": "2002",
+    "UID": "e737c4353b940c09",
+    "Active": true,
+    "end_date": "31-08-2029",
+    "Status": "Test0",
+    "vip": false
+  },
+  {
+    "Key": "12345",
+    "UID": "9feee03d75d6f556",
+    "Active": true,
+    "end_date": "15-10-2025",
+    "Status": "",
+    "vip": true
+  },
+  {
+    "Key": "123",
+    "UID": "3ec3a5b17b8d38fc",
+    "Active": true,
+    "end_date": "08-11-2025",
+    "Status": "Nguyenduckhang",
+    "vip": true
+  },
+  {
+    "Key": "970722",
+    "UID": "8453a685657974a7",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Nghiêm Hiếu",
+    "vip": false
+  },
+  {
+    "Key": "Taivn1",
+    "UID": "e737c4353b940c09",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Hiu",
+    "vip": false
+  },
+  {
+    "Key": "251988",
+    "UID": "2629e00efed3a2f8",
+    "Active": true,
+    "end_date": "08-11-2025",
+    "Status": "Thiếu Gia Họ Triệu",
+    "vip": false
+  },
+  {
+    "Key": "5555",
+    "UID": "e8f16a650dc08e05",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Cuộc Sống",
+    "vip": false
+  },
+  {
+    "Key": "1111",
+    "UID": "1fe0c047a4e9bbd4",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Hoangvanquet",
+    "vip": false
+  },
+    {
+    "Key": "1311",
+    "UID": "6b77fcd627cc5f74",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Long Jr",
+    "vip": false
+    },
+  {
+    "Key": "1985",
+    "UID": "4974f2a6d8ecb230",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Trần Tâm T",
+    "vip": false
+  },
+    {
+    "Key": "27071990",
+    "UID": "183cd6f944c84d27",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Hoàng Anh TK",
+    "vip": false
+    },
+  {
+    "Key": "99999",
+    "UID": "7fbd3cbae4f2d867",
+    "Active": true,
+    "end_date": "09-11-2025",
+    "Status": "Ông Cao Thắng",
+    "vip": false
+  }, 
+  {
+    "Key": "10121984",
+    "UID": "c99e2508c72a06a4",
+    "Active": true,
+    "end_date": "10-11-2025",
+    "Status": "Nguyễn Thanh Lâm",
+    "vip": false
+  },
+    {
+    "Key": "11111",
+    "UID": "846f37c667913cf4",
+    "Active": true,
+    "end_date": "11-11-2025",
+    "Status": "Nguyễn Minh Triết",
+    "vip": false
+  },
+    {
+    "Key": "1912",
+    "UID": "bfb3d97f7dbd1c00",
+    "Active": true,
+    "end_date": "11-11-2025",
+    "Status": "Văn Tìnhh",
+    "vip": false
+  },
+    {
+    "Key": "101573",
+    "UID": "9a64914314351cfd",
+    "Active": true,
+    "end_date": "12-11-2025",
+    "Status": "Thanh Bằng",
+    "vip": false
+  },
+    {
+    "Key": "1234",
+    "UID": "2bd97c96dcfdd83a",
+    "Active": true,
+    "end_date": "12-11-2025",
+    "Status": "Bố Trẻ Con",
+    "vip": false
+    },
+  {
+    "Key": "77777",
+    "UID": "07c7d97d2f7a6e56",
+    "Active": true,
+    "end_date": "12-11-2025",
+    "Status": "Dân Huỳnh",
+    "vip": false
+  },
+    {
+    "Key": "0000",
+    "UID": "f083e61c908908bf",
+    "Active": true,
+    "end_date": "12-11-2025",
+    "Status": "Nguyễn Hoàng Bắc",
+    "vip": false
+    }
+]
