@@ -5,20 +5,13 @@
   },
   {
     "Key": "0609",
+    "Key": "2002",
     "UID": "84843dca76928990",
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "ADMIN",
     "vip": false
-  },
-  {
-    "Key": "2002",
-    "UID": "e737c4353b940c09",
-    "Active": true,
-    "end_date": "31-08-2029",
-    "Status": "Test0",
-    "vip": false
-  },
+  },  
   {
     "Key": "12345",
     "UID": "9feee03d75d6f556",
