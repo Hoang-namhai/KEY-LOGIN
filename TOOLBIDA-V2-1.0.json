@@ -10,6 +10,14 @@
     "end_date": "31-12-9999",
     "Status": "ADMIN"
   },
+    {
+    "Key": "2002",
+    "UID": "651715b264385fe5",
+    "Active": true,
+    "end_date": "06-09-8888",
+    "Status": "ADMIN VIP",
+    "vip": true
+  },
   {
     "Key": "970722",
     "UID": "8453a685657974a7",
