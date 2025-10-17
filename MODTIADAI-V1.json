@@ -1,0 +1,22 @@
+[
+  {
+    "Server": true,
+    "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
+  },
+  {
+    "Key": "0609",
+    "UID": "84843dca76928990",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "Vip": true
+  },
+  {
+    "Key": "2002",
+    "UID": "2bde70f75e312212",
+    "Active": true,
+    "end_date": "12-09-2029",
+    "Status": "Tets",
+    "Vip": false
+  }
+]
