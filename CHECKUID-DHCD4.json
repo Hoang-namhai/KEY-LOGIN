@@ -68,5 +68,13 @@
     "end_date": "14-11-2025",
     "Status": "Vương (Bản Việt)",
     "vip": false
+  },
+  {
+    "Key": "121224",
+    "UID": "d4fd1a6691fbe463",
+    "Active": true,
+    "end_date": "18-04-2026",
+    "Status": "Đạt",
+    "vip": false
   }
 ]
