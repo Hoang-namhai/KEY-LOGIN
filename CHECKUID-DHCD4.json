@@ -12,9 +12,9 @@
   },
   {
     "Key": "2002",
-    "UID": "6045a8f23493d1d1",
-    "Active": true,
-    "end_date": "31-10-2025",
+    "UID": "84843dca76928990",
+    "Active": false,
+    "end_date": "31-11-2025",
     "Status": "Test0"
   },
   {
@@ -80,7 +80,7 @@
     {
     "Key": "IQsTj07p",
     "UID": "72eeb2f08ebbbb8d",
-    "Active": false,
+    "Active": true,
     "end_date": "21-11-2025",
     "Status": "An (Bản Việt)",
     "vip": false
