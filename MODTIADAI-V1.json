@@ -68,27 +68,11 @@
     "vip": false
     },
     {
-    "Key": "22222",
-    "UID": "2f5e6151466d2f7b",
-    "Active": true,
-    "end_date": "29-11-2025",
-    "Status": "Nguyễn Đăng Mạnh",
-    "vip": false
-    },
-    {
     "Key": "P1111",
     "UID": "321be86f8ff81074",
     "Active": true,
     "end_date": "01-12-2025",
     "Status": "Bá Phú",
-    "vip": false
-    },
-    {
-    "Key": "KAGAH",
-    "UID": "a8a9e44289767f8a",
-    "Active": true,
-    "end_date": "02-11-2025",
-    "Status": "test",
     "vip": false
     }
 ]
