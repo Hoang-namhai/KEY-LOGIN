@@ -63,7 +63,7 @@
     "Key": "1311",
     "UID": "6b77fcd627cc5f74",
     "Active": true,
-    "end_date": "09-11-2025",
+    "end_date": "09-12-2025",
     "Status": "Long Jr",
     "vip": false
     },
@@ -156,14 +156,6 @@
     "vip": false
     },
     {
-    "Key": "Dat123",
-    "UID": "0ccafbb816bf036c",
-    "Active": true,
-    "end_date": "17-10-2025",
-    "Status": "Thành Đạt Test 1day",
-    "vip": false
-    },
-    {
     "Key": "2345",
     "UID": "887ce735eb6e894a",
     "Active": true,
@@ -231,8 +223,8 @@
     "Key": "22222",
     "UID": "822f8b73e832b9a4",
     "Active": true,
-    "end_date": "29-11-2025",
-    "Status": "Lương Văn Hiếu",
+    "end_date": "20-12-2025",
+    "Status": "Nguyễn Đăng Mạnh",
     "vip": false
   },
   {
