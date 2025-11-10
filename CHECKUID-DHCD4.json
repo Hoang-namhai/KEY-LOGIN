@@ -93,7 +93,15 @@
     "UID": "d95e7096c14e2928",
     "Active": true,
     "end_date": "08-12-2025",
-    "Status": "New Wo ",
+    "Status": "New Wo Bản Việt",
     "vip": false
-    }
+    },
+  {
+    "Key": "JSUWBA",
+    "UID": "2fea64ec4ddf0cc1",
+    "Active": true,
+    "end_date": "10-12-2025",
+    "Status": "Văn kkd Bản Việt",
+    "vip": false
+  }
 ]
