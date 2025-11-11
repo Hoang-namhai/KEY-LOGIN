@@ -103,5 +103,13 @@
     "end_date": "10-12-2025",
     "Status": "Văn kkd Bản Việt",
     "vip": false
+  },
+  {
+    "Key": "OAAKK",
+    "UID": "17a7fa268746df96",
+    "Active": true,
+    "end_date": "11-12-2025",
+    "Status": "Từ Mạnh Hùng",
+    "vip": false
   }
 ]
