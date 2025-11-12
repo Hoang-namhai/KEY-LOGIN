@@ -119,5 +119,13 @@
     "end_date": "12-12-2025",
     "Status": "Ân Crazy Bản Việt",
     "vip": false
+    },
+    {
+    "Key": "KAWGID",
+    "UID": "8e7b5b210bc529a8",
+    "Active": true,
+    "end_date": "12-12-2025",
+    "Status": "Loi Ngo",
+    "vip": false
     }
 ]
