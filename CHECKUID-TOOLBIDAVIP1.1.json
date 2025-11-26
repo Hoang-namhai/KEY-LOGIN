@@ -298,5 +298,13 @@
     "end_date": "20-02-2026",
     "Status": "Nguyễn Hoàn Hảo",
     "vip": false    
+    },
+    {
+    "Key": "KAGDNE",
+    "UID": "a37513156f5917fe",
+    "Active": true,
+    "end_date": "26-12-2025",
+    "Status": "Sâm",
+    "vip": false    
     }
 ]
