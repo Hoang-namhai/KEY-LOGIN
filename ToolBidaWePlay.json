@@ -5,9 +5,17 @@
   },
   {
     "Key": "0609",
-    "UID": "84843dca76928990",
+    "UID": "041634795c77960c",
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "ADMIN"
-  }
+  },
+    {
+    "Key": "MNKDAT4",
+    "UID": "a26d21fdd99a3a6d",
+    "Active": true,
+    "end_date": "06-02-2026",
+    "Status": "Nguyễn Việt Phương",
+    "vip": false    
+    }
 ]
