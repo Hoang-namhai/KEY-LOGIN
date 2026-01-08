@@ -242,13 +242,5 @@
     "end_date": "02-02-2026",
     "Status": "NguyễnThanhLâm",
     "vip": false    
-    },
-    {
-    "Key": "KHJLA6",
-    "UID": "c8c2c091c80d1cc6",
-    "Active": true,
-    "end_date": "08-02-2026",
-    "Status": "Trần Chí Thế",
-    "vip": false    
     }
 ]
