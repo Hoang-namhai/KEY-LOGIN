@@ -44,62 +44,6 @@
     "vip": false    
     },
     {
-    "Key": "MFUS52",
-    "UID": "1c00fe72db943b41",
-    "Active": true,
-    "end_date": "06-01-2026",
-    "Status": "Hoàng Hải",
-    "vip": false    
-    },
-    {
-    "Key": "LKHAT1",
-    "UID": "ac7f29d61ee8d236",
-    "Active": true,
-    "end_date": "06-01-2026",
-    "Status": "Nguyễn Kiên",
-    "vip": false    
-    },
-    {
-    "Key": "KSUBD4",
-    "UID": "beaf72ef0d660be2",
-    "Active": true,
-    "end_date": "07-01-2026",
-    "Status": "Hoàng Ninh",
-    "vip": false    
-    },
-    {
-    "Key": "KABDU7",
-    "UID": "2bd97c96dcfdd83a",
-    "Active": true,
-    "end_date": "10-01-2026",
-    "Status": "Bố Trẻ Con",
-    "vip": false    
-  },
-    {
-    "Key": "PANEO8",
-    "UID": "f8629461402c5883",
-    "Active": true,
-    "end_date": "13-01-2026",
-    "Status": "Hải Phạm",
-    "vip": false    
-    },
-    {
-    "Key": "LABXK1",
-    "UID": "521ec9171a35dc39",
-    "Active": true,
-    "end_date": "16-01-2026",
-    "Status": "Đại Nguyễn",
-    "vip": false    
-    },
-    {
-    "Key": "QALEL1",
-    "UID": "4751b45ba5271d22",
-    "Active": true,
-    "end_date": "18-01-2026",
-    "Status": "Quỳnh",
-    "vip": false    
-    },
-    {
     "Key": "AONEO4",
     "UID": "dd1c0c264269c383",
     "Active": true,
