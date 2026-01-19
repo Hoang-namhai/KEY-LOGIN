@@ -11,84 +11,12 @@
     "Status": "ADMIN",
     "vip": false
   },  
-  {
-    "Key": "970722",
-    "UID": "7fa204f705bfc7db",
-    "Active": true,
-    "end_date": "29-12-2025",
-    "Status": "Nghiêm Hiếu",
-    "vip": false
-  },
     {
     "Key": "1311",
     "UID": "38906466c3cbda06",
     "Active": true,
     "end_date": "09-02-2026",
     "Status": "Long Jr",
-    "vip": false
-    },
-    {
-    "Key": "123456",
-    "UID": "c7aaa850eae1de3a",
-    "Active": true,
-    "end_date": "19-12-2025",
-    "Status": "Nghiaonbi",
-    "vip": false
-    },
-    {
-    "Key": "LeKhanh123",
-    "UID": "d09c1d49c9e3e4c9",
-    "Active": true,
-    "end_date": "09-12-2025",
-    "Status": "Lê Khánh",
-    "vip": false
-    },    
-    {
-    "Key": "N1234",
-    "UID": "6ac3cd9160542c6b",
-    "Active": true,
-    "end_date": "28-11-2025",
-    "Status": "Nguyên",
-    "vip": false
-    },
-  {
-    "Key": "22222",
-    "UID": "2f5e6151466d2f7b",
-    "Active": true,
-    "end_date": "20-12-2025",
-    "Status": "Nguyễn Đăng Mạnh",
-    "vip": false
-  },
-  {
-    "Key": "12345",
-    "UID": "deba7a43f1b32572",
-    "Active": true,
-    "end_date": "04-12-2025",
-    "Status": "Nguyễn Sơn",
-    "vip": false
-   },
-  {
-    "Key": "KAHXKW",
-    "UID": "8d175d4e769204bd",
-    "Active": true,
-    "end_date": "04-12-2025",
-    "Status": "Tân Khẹc",
-    "vip": false
-  },
-    {
-    "Key": "OAHAHD",
-    "UID": "c12950341d1b845b",
-    "Active": true,
-    "end_date": "08-12-2025",
-    "Status": "Luu Hải",
-    "vip": false
-    },
-    {
-    "Key": "KAWNJD",
-    "UID": "aa1ecdb9beb69746",
-    "Active": true,
-    "end_date": "09-12-2025",
-    "Status": "Nguyễn Trong",
     "vip": false
     },
     {
@@ -107,30 +35,6 @@
     "Status": "Khang Khểnh Guppy",
     "vip": false
       },
-    {
-    "Key": "112233",
-    "UID": "2e8b21b7e0fb1509",
-    "Active": true,
-    "end_date": "21-12-2025",
-    "Status": "Hoàng Đoàn",
-    "vip": false
-    },
-  {
-    "Key": "OAHWF",
-    "UID": "2c1a4be3d3b49cd8",
-    "Active": true,
-    "end_date": "15-12-2025",
-    "Status": "Lê Hiệu",
-    "vip": false
-  },
-    {
-    "Key": "AKSUW",
-    "UID": "e14f6a4aca21b78c",
-    "Active": true,
-    "end_date": "20-12-2025",
-    "Status": "Anh Tuấn",
-    "vip": false    
-    },
     {
     "Key": "OAKDG",
     "UID": "bc5b8abd8e632208",
