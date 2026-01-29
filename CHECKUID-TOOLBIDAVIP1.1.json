@@ -6,7 +6,15 @@
   {
     "Key": "0609",    
     "UID": "041634795c77960c",
-    "Active": false,
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "vip": false
+  },  
+    {
+    "Key": "2002",    
+    "UID": "041634795c77960c",
+    "Active": true,
     "end_date": "31-12-9999",
     "Status": "ADMIN",
     "vip": false
@@ -137,14 +145,6 @@
     "Active": true,
     "end_date": "26-02-2026",
     "Status": "Kiệt Huỳnh",
-    "vip": false    
-    },
-    {
-    "Key": "NV123VIP",
-    "UID": "df2c5bf5f41310fb",
-    "Active": false,
-    "end_date": "26-07-2026",
-    "Status": "Nhan Văn",
     "vip": false    
     }
 ]
