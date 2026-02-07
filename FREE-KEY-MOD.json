@@ -11,6 +11,13 @@
     "end_date": "31-12-9999",
     "Status": "ADMIN",
     "vip": false
+  },
+    {
+    "Key": "Free",
+    "Active": true,
+    "end_date": "14-02-2026",
+    "Status": "FREEMOD",
+    "vip": false
   }
 ]
 
