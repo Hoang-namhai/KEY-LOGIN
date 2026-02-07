@@ -14,6 +14,15 @@
   },
     {
     "Key": "Free",
+    "UID": "041634795c77960c",  
+    "Active": true,
+    "end_date": "14-02-2026",
+    "Status": "FREEMOD",
+    "vip": false
+  },
+    {
+    "Key": "1234",
+    "UID": "000",  
     "Active": true,
     "end_date": "14-02-2026",
     "Status": "FREEMOD",
