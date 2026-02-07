@@ -1,7 +1,7 @@
 [
   {
     "Server": true,
-    "Free": false,
+    "Free": true,
     "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
   },
   {
@@ -14,15 +14,6 @@
   },
     {
     "Key": "Free",
-    "UID": "041634795c77960c",  
-    "Active": true,
-    "end_date": "14-02-2026",
-    "Status": "FREEMOD",
-    "vip": false
-  },
-    {
-    "Key": "1234",
-    "UID": "000",  
     "Active": true,
     "end_date": "14-02-2026",
     "Status": "FREEMOD",
