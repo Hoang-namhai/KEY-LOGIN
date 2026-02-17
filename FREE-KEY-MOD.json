@@ -1,7 +1,7 @@
 [
   {
     "Server": true,
-    "Free": true,
+    "Free": false,
     "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
   },
   {
@@ -35,7 +35,15 @@
     "end_date": "14-04-2026",
     "Status": "Vương (Bản Việt)",
     "vip": false
-  }
+  },
+  {
+    "Key": "23456",
+    "UID": "bc446436f9735663",
+    "Active": true,
+    "end_date": "17-03-2026",
+    "Status": "Đỗ Hậu Bản Việt",
+    "vip": false
+}
 ]
 
 
