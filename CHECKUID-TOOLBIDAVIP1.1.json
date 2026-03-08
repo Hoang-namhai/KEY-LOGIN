@@ -7,7 +7,7 @@
   {
     "Key": "0609",    
     "UID": "041634795c77960c",
-    "Active": true,
+    "Active": false,
     "end_date": "31-12-9999",
     "Status": "ADMIN",
     "vip": false
