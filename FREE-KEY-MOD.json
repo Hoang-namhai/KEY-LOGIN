@@ -83,6 +83,14 @@
     "end_date": "13-04-2026",
     "Status": "Lê Giáp",
     "vip": false
+  },
+  {
+    "Key": "VIP",
+    "UID": "19f27aebfa4ff804",
+    "Active": true,
+    "end_date": "13-04-2026",
+    "Status": "Hà Tiến",
+    "vip": false
   }
 ]
 
