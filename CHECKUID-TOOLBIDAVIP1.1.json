@@ -235,5 +235,13 @@
     "end_date": "31-12-9999",
     "Status": "Lưu Thịnh VV",
     "vip": false
+  },
+  {
+    "Key": "VLUG4Z",
+    "UID": "405a4c91f297a0f7",
+    "Active": true,
+    "end_date": "12-05-2026",
+    "Status": "Vãi Lòng",
+    "vip": false
   }
 ]
