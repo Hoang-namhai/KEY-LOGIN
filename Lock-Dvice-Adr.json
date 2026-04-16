@@ -1,0 +1,14 @@
+[
+  {
+    "Server": true,
+    "StatusAll": "Server đang hoạt động bình thường"
+  },
+  {
+    "UID": "041634795c77960c",
+    "Active": true
+  },
+  {
+    "UID": "another_uid_here",
+    "Active": false
+  }
+]
