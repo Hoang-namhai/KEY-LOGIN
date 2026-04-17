@@ -251,5 +251,13 @@
     "end_date": "17-05-2026",
     "Status": "Minh Tú Điệp",
     "vip": false
-}
+},
+  {
+    "Key": "CL175HS",
+    "UID": "cd7b716e8885fe0c",
+    "Active": true,
+    "end_date": "17-05-2026",
+    "Status": "Cụ Lý,
+    "vip": false
+  }
 ]
