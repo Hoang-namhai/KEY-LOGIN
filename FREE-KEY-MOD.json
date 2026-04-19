@@ -107,6 +107,14 @@
     "end_date": "27-07-2026",
     "Status": "Huyy Huyy",
     "vip": false
+  },
+  {
+    "Key": "VIPĐHCĐ",
+    "UID": "3f5ce1b62e13a0d8",
+    "Active": true,
+    "end_date": "20-10-2026",
+    "Status": "Phong Cẩm",
+    "vip": false
   }
 ]
 
