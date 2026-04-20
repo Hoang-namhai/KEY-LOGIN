@@ -1,0 +1,121 @@
+[
+  {
+    "Server": true,
+    "Free": false,
+    "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
+  },
+  {
+    "Key": "0609",
+    "UID": "041634795c77960c",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "vip": false
+  },
+    {
+    "Key": "Free",
+    "UID": "9999",
+    "Active": true,
+    "end_date": "14-02-2026",
+    "Status": "FREEMOD",
+    "vip": false
+  },
+  {
+    "Key": "Vuong123",
+    "UID": "c21476e122087661",
+    "Active": true,
+    "end_date": "12-05-2026",
+    "Status": "Vương (Bản Việt)",
+    "vip": false
+    },
+  {
+    "Key": "Vuong1234",
+    "UID": "ea2211daf16671fe",
+    "Active": true,
+    "end_date": "14-04-2026",
+    "Status": "Vương (Bản Việt)",
+    "vip": false
+  },
+  {
+    "Key": "23456",
+    "UID": "bc446436f9735663",
+    "Active": true,
+    "end_date": "17-03-2026",
+    "Status": "Đỗ Hậu Bản Việt",
+    "vip": false
+},
+  {
+    "Key": "LOABEK",
+    "UID": "e448764485565fa6",
+    "Active": true,
+    "end_date": "06-05-2026",
+    "Status": "Ân Crazy Bản Việt",
+    "vip": false
+  },
+  {
+    "Key": "OAAKK11",
+    "UID": "bc7e8542123b9b11",
+    "Active": true,
+    "end_date": "18-06-2026",
+    "Status": "Mạnh Hùng",
+    "vip": false
+},
+  {
+    "Key": "TDIALPH77",
+    "UID": "b0df33f3d1b3be21",
+    "Active": true,
+    "end_date": "10-04-2026",
+    "Status": "Tiểu Di",
+    "vip": false
+},
+    {
+    "Key": "0609",
+    "UID": "6c9877a7f60c3bd0",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "Pool Master",
+    "vip": false
+  },
+  {
+    "Key": "VIP",
+    "UID": "33973799df128523",
+    "Active": true,
+    "end_date": "16-05-2026",
+    "Status": "Lê Giáp",
+    "vip": false
+  },
+  {
+    "Key": "VIP",
+    "UID": "19f27aebfa4ff804",
+    "Active": true,
+    "end_date": "13-04-2026",
+    "Status": "Hà Tiến",
+    "vip": false
+  },
+  {
+    "Key": "ĐHCD",
+    "UID": "3cf39d7dee594cf4",
+    "Active": true,
+    "end_date": "13-04-2026",
+    "Status": "Đăng Cường",
+    "vip": false
+},
+  {
+    "Key": "ĐHCD",
+    "UID": "dc42b7d86d32f1a5",
+    "Active": true,
+    "end_date": "27-07-2026",
+    "Status": "Huyy Huyy",
+    "vip": false
+  },
+  {
+    "Key": "ĐHCĐ VN",
+    "UID": "3f5ce1b62e13a0d8",
+    "Active": true,
+    "end_date": "20-10-2026",
+    "Status": "Phong Cẩm",
+    "vip": false
+  }
+]
+
+
