@@ -139,6 +139,14 @@
     "end_date": "25-04-2026",
     "Status": "Anh Mến",
     "vip": false
+  },
+  {
+    "Game": "Capybara 2 China",
+    "UID": "73b56a27c3e90b74",
+    "Active": true,
+    "end_date": "30-04-2026",
+    "Status": "Ruồi",
+    "vip": false
   }
 
 
