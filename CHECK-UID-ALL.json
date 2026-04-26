@@ -171,6 +171,14 @@
     "end_date": "02-05-2026",
     "Status": "Vượng Bùi",
     "vip": true
+},
+  {
+    "Game": "Capybara 2 China",
+    "UID": "4fe7bf686aa48220",
+    "Active": true,
+    "end_date": "03-05-2026",
+    "Status": "Phan Trung Thắng",
+    "vip": true
 }
 
 
