@@ -179,7 +179,15 @@
     "end_date": "03-05-2026",
     "Status": "Phan Trung Thắng",
     "vip": true
-}
+},
+    {
+    "Game": "DHCD VN",
+    "UID": "bc446436f9735663",
+    "Active": true,
+    "end_date": "27-05-2026",
+    "Status": "Đỗ Hậu",
+    "vip": false    
+  }
 
 
 
