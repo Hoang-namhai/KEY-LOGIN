@@ -187,7 +187,15 @@
     "end_date": "27-05-2026",
     "Status": "Đỗ Hậu",
     "vip": false    
-  }
+  },
+  {
+    "Game": "Capybara 2 China",
+    "UID": "38a05e73897b0999",
+    "Active": true,
+    "end_date": "28-04-2026",
+    "Status": "Diệu Nguyễn",
+    "vip": true
+}
 
 
 
