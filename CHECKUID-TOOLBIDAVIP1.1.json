@@ -195,6 +195,14 @@
     "end_date": "20-05-2026",
     "Status": "Hiếu",
     "vip": false    
+  },
+      {
+    "Key": "CHGAD15",
+    "UID": "48bcf3bfab74df2c",
+    "Active": true,
+    "end_date": "01-07-2026",
+    "Status": "Chính Lê",
+    "vip": false    
   }
       
 
