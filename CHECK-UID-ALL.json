@@ -230,9 +230,9 @@
   },
   {
     "Game": "Tool Vip",
-    "UID": "c614cf57ee225916V",
+    "UID": "c614cf57ee225916",
     "Active": true,
-    "end_date": "31-12-9999",
+    "end_date": "31-12-999",
     "Status": "ADMIN TEST",
     "vip": false
 }
