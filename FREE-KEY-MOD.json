@@ -123,6 +123,14 @@
     "end_date": "27-05-2026",
     "Status": "Đỗ Hậu",
     "vip": false    
+  },
+    {
+    "Key": "ĐHCĐ VN",
+    "UID": "d4f8120cfaf0c3b4",
+    "Active": true,
+    "end_date": "09-06-2026",
+    "Status": "Ngocquang Nguyen",
+    "vip": false    
   }
 ]
 
