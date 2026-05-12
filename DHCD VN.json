@@ -1,0 +1,105 @@
+[
+  {
+    "Server": true,
+    "Free": false,
+    "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\nꜱᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
+  },
+  {
+    "Key": "0609",
+    "UID": "041634795c77960c",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "vip": true
+  },
+    {
+    "Key": "Free",
+    "UID": "9999",
+    "Active": true,
+    "end_date": "14-02-2026",
+    "Status": "FREEMOD",
+    "vip": false
+  },
+  {
+    "Key": "Vuong123",
+    "UID": "c21476e122087661",
+    "Active": true,
+    "end_date": "12-05-2026",
+    "Status": "Vương (Bản Việt)",
+    "vip": false
+    },
+  {
+    "Key": "Vuong1234",
+    "UID": "ea2211daf16671fe",
+    "Active": true,
+    "end_date": "22-05-2026",
+    "Status": "Vương (Bản Việt)",
+    "vip": false
+  },
+  {
+    "Key": "LOABEK",
+    "UID": "e448764485565fa6",
+    "Active": true,
+    "end_date": "06-05-2026",
+    "Status": "Ân Crazy Bản Việt",
+    "vip": false
+  },
+  {
+    "Key": "OAAKK11",
+    "UID": "bc7e8542123b9b11",
+    "Active": true,
+    "end_date": "18-06-2026",
+    "Status": "Mạnh Hùng",
+    "vip": false
+},
+  {
+    "Key": "VIP",
+    "UID": "33973799df128523",
+    "Active": true,
+    "end_date": "16-08-2026",
+    "Status": "Lê Giáp",
+    "vip": false
+  },
+  {
+    "Key": "ĐHCD",
+    "UID": "dc42b7d86d32f1a5",
+    "Active": true,
+    "end_date": "27-07-2026",
+    "Status": "Huyy Huyy",
+    "vip": false
+  },
+  {
+    "Key": "VIPĐHCĐ",
+    "UID": "3f5ce1b62e13a0d8",
+    "Active": true,
+    "end_date": "20-10-2026",
+    "Status": "Phong Cẩm",
+    "vip": false
+  },
+    {
+    "Game": "DHCD VN",
+    "UID": "0ae6965c2a7517a2",
+    "Active": true,
+    "end_date": "27-05-2026",
+    "Status": "Đỗ Hậu",
+    "vip": false    
+  },
+    {
+    "Key": "ĐHCĐ VN",
+    "UID": "a6bd237af5289207",
+    "Active": true,
+    "end_date": "09-06-2026",
+    "Status": "Ngocquang Nguyen",
+    "vip": false    
+  },
+    {
+    "Key": "ĐHCĐ VN",
+    "UID": "ee330c6f63050d44",
+    "Active": true,
+    "end_date": "11-06-2026",
+    "Status": "Vì Nghèo Tôi Mất Em",
+    "vip": false    
+    }
+]
+
+
