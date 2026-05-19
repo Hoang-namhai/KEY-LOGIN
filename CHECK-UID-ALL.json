@@ -372,6 +372,14 @@
     "end_date": "19-06-2026",
     "Status": "Nghiêm Hiếu",
     "vip": false
+  },
+  {
+    "Key": "0609",
+    "UID": "e7ae84c53d899986",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "vip": true
   }
 
 
