@@ -139,6 +139,14 @@
     "end_date": "31-08-2026",
     "Status": "Vũ Thúy Hanh",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "fd2e406ac4f293ec",
+    "Active": true,
+    "end_date": "02-07-2026",
+    "Status": "Đàm Xuân Độ",
+    "vip": false
   }
 ]
 
