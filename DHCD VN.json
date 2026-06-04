@@ -123,6 +123,14 @@
     "end_date": "02-07-2026",
     "Status": "Thiệu Nguyễn",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "53509fd062d3099e",
+    "Active": true,
+    "end_date": "04-07-2026",
+    "Status": "Hải Sơn",
+    "vip": false
   }
 ]
 
