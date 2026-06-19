@@ -147,6 +147,14 @@
     "end_date": "16-07-2026",
     "Status": "Trân Châu",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "2fcc9d0d67af7323",
+    "Active": true,
+    "end_date": "19-07-2026",
+    "Status": "Bon",
+    "vip": false
   }
 ]
 
