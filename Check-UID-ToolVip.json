@@ -1,6 +1,6 @@
 [
   {
-    "Server": true,
+    "Server": false,
     "VNA": true,
     "Free": false,
     "Version": "1.9",
