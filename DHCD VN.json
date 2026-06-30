@@ -163,6 +163,14 @@
     "end_date": "20-07-2026",
     "Status": "Không Rõ",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "ddda2f7bb4ec6d2f",
+    "Active": true,
+    "end_date": "30-09-2026",
+    "Status": "Nguyen Binh Duy Khanh",
+    "vip": false
   }
 ]
 
