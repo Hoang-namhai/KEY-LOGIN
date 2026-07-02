@@ -171,6 +171,14 @@
     "end_date": "30-09-2026",
     "Status": "Nguyen Binh Duy Khanh",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "a5122390135ca355",
+    "Active": true,
+    "end_date": "02-08-2026",
+    "Status": "Anh Hai Ty",
+    "vip": false
   }
 ]
 
