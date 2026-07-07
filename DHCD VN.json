@@ -179,6 +179,14 @@
     "end_date": "02-08-2026",
     "Status": "Anh Hai Ty",
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "d1ace1d112bbbb8a",
+    "Active": true,
+    "end_date": "07-08-2026",
+    "Status": "Tổng Kho Thiết Bị Nâng Hạ",
+    "vip": false
   }
 ]
 
