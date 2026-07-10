@@ -187,7 +187,15 @@
     "end_date": "07-08-2026",
     "Status": "Tổng Kho Thiết Bị Nâng Hạ",
     "vip": false
-  }
+  },
+  {
+    "Game": "ĐHCĐ VN",
+    "UID": "fd2e406ac4f293ec",
+    "Active": true,
+    "end_date": "10-08-2026",
+    "Status": "Đàm Xuân Độ 2",
+    "vip": false
+  },
 ]
 
 
