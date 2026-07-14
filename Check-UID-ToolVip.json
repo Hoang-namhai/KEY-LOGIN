@@ -128,14 +128,6 @@
   },
   {
     "Game": "Tool Vip",
-    "UID": "55408f15709021ff",
-    "Active": true,
-    "end_date": "23-07-2026",
-    "Status": "Tân Dương",
-    "vip": false
-  },
-  {
-    "Game": "Tool Vip",
     "UID": "405a4c91f297a0f7",
     "Active": true,
     "end_date": "23-06-2026",
@@ -354,8 +346,8 @@
     "Game": "Tool Vip",
     "UID": "582a31c7d2d0e0c3",
     "Active": true,
-    "end_date": "14-08-2026",
-    "Status": "Tân Dương 2",
+    "end_date": "22-08-2026",
+    "Status": "Tân Dương",
     "vip": false
   }
   
