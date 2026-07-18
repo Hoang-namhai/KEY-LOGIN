@@ -195,6 +195,14 @@
     "end_date": "14-08-2026",
     "Status": "Đàm Xuân Bộ 2",
     "vip": false
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "96080a5de3678acc",
+    "Active": true,
+    "end_date": "18-09-2026",
+    "Status": "Tân Sang",
+    "vip": false
   }
 ]
 
