@@ -1,6 +1,6 @@
 [
   {
-    "Server": true,
+    "Server": false,
     "Free": false,
     "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\n𝚂ᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
   },
@@ -222,9 +222,9 @@
   },
     {
     "Gane": "ĐHCĐ VN",
-    "UID": "c9ad7e8682283607",
+    "UID": "c9ad7e86822836077",
     "Active": true,
-    "end_date": "25-08-2016",
+    "end_date": "25-08-2099",
     "Status": "ADM2",
     "vip": true
   }
