@@ -211,6 +211,14 @@
     "end_date": "22-09-2026",
     "Status": "Nguyễn Đình Tưởng",
     "vip": true
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "4ae193f96723f536",
+    "Active": true,
+    "end_date": "25-08-2026",
+    "Status": "Lộc",
+    "vip": false
   }
 ]
 
