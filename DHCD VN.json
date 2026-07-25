@@ -222,8 +222,8 @@
   },
     {
     "Gane": "ĐHCĐ VN",
-    "UID": "c9ad7e86822836077",
-    "Active": true,
+    "UID": "c9ad7e8682283607",
+    "Active": false,
     "end_date": "25-08-2099",
     "Status": "ADM2",
     "vip": true
