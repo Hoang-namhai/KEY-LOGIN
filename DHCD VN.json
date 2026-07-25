@@ -219,6 +219,14 @@
     "end_date": "25-08-2026",
     "Status": "Lộc",
     "vip": false
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "cbf5e2e3c0200ac2",
+    "Active": true,
+    "end_date": "25-08-2036",
+    "Status": "ADM2",
+    "vip": true
   }
 ]
 
