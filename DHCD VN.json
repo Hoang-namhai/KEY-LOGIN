@@ -96,9 +96,9 @@
     "Game": "DHCD VN",
     "UID": "5ac55d5d9713b4a9",
     "Active": true,
-    "end_date": "31-08-2026",
+    "end_date": "31-10-2026",
     "Status": "Trung Nguyễn",
-    "vip": false
+    "vip": true
   },
     {
     "Game": "DHCD VN",
