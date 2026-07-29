@@ -243,6 +243,14 @@
     "end_date": "29-08-2026",
     "Status": "Tuấn Nguyễn Hữu",
     "vip": true
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "a5cc7eced8baec37",
+    "Active": true,
+    "end_date": "29-10-2026",
+    "Status": "Phi Khánh",
+    "vip": true
   }
 ]
 
