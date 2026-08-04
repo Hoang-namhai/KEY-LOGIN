@@ -112,7 +112,7 @@
     "Game": "ĐHCĐ VN",
     "UID": "fd2e406ac4f293ec",
     "Active": true,
-    "end_date": "03-08-2026",
+    "end_date": "03-09-2026",
     "Status": "Đàm Xuân Độ",
     "vip": false
   },
@@ -186,14 +186,6 @@
     "Active": true,
     "end_date": "07-08-2026",
     "Status": "Tổng Kho Thiết Bị Nâng Hạ",
-    "vip": false
-  },
-    {
-    "Game": "ĐHCĐ VN",
-    "UID": "511b8e80e2bb83dc",
-    "Active": true,
-    "end_date": "14-08-2026",
-    "Status": "Đàm Xuân Bộ 2",
     "vip": false
   },
     {
