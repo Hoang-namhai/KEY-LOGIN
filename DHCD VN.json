@@ -232,7 +232,7 @@
     "Game": "ĐHCĐ VN",
     "UID": "6b3368d22afcc653",
     "Active": true,
-    "end_date": "29-08-2026",
+    "end_date": "06-09-2026",
     "Status": "Tuấn Nguyễn Hữu",
     "vip": true
   },
@@ -243,7 +243,18 @@
     "end_date": "29-10-2026",
     "Status": "Phi Khánh",
     "vip": false
+  },
+  
+  {
+    "Gane": "ĐHCĐ VN",
+    "UID": "8a2be253b35aa01a",
+    "Active": true,
+    "end_date": 06-08-2026",
+    "Status": "Xe Nước Mía Hồng Tú",
+    "vip": true
   }
+
+
 ]
 
 
