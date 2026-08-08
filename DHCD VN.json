@@ -10,7 +10,7 @@
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "ADMIN",
-    "vip": false
+    "vip": true
   },
   {
     "Game": "ĐHCĐ VN",
@@ -210,7 +210,7 @@
     "Active": true,
     "end_date": "25-08-2099",
     "Status": "ADMIN",
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
