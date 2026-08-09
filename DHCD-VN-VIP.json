@@ -1,0 +1,255 @@
+[
+  {
+    "Server": true,
+    "Free": false,
+    "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\n𝚂ᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
+  },
+  {
+    "Key": "0609",
+    "UID": "041634795c77960c",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "ADMIN",
+    "TabVip": true,
+    "vip": true
+  },
+  {
+    "Game": "ĐHCĐ VN",
+    "UID": "bc7e8542123b9b11",
+    "Active": true,
+    "end_date": "26-08-2026",
+    "Status": "Mạnh Hùng",
+    "TabVip": false,
+    "vip": false
+  },
+  {
+    "Game": "ĐHCĐ VN",
+    "UID": "33973799df128523",
+    "Active": true,
+    "end_date": "16-08-2026",
+    "Status": "Lê Giáp",
+    "TabVip": false,
+    "vip": false
+  },
+  {
+    "Game": "ĐHCĐ VN",
+    "UID": "dc42b7d86d32f1a5",
+    "Active": true,
+    "end_date": "27-10-2026",
+    "Status": "Huyy Huyy",
+    "TabVip": false,
+    "vip": false
+  },
+  {
+    "Game": "VIPĐHCĐ",
+    "UID": "3f5ce1b62e13a0d8",
+    "Active": true,
+    "end_date": "20-10-2026",
+    "Status": "Phong Cẩm",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "DHCD VN",
+    "UID": "92b8617665c54b78",
+    "Active": true,
+    "end_date": "07-09-2026",
+    "Status": "Đỗ Hậu",
+    "TabVip": false,
+    "vip": false    
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "7b32e9c68b767fe9",
+    "Active": true,
+    "end_date": "09-09-2026",
+    "Status": "Ngocquang Nguyen",
+    "TabVip": false,
+    "vip": false    
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "ee330c6f63050d44",
+    "Active": false,
+    "end_date": "11-08-2026",
+    "Status": "Vì Nghèo Tôi Mất Em",
+    "TabVip": false,
+    "vip": false    
+    },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "def982e531ede582",
+    "Active": true,
+    "end_date": "06-08-2026",
+    "Status": "Hồng Hmbc",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "DHCD VN",
+    "UID": "bd8d6226c4885242",
+    "Active": true,
+    "end_date": "11-08-2026",
+    "Status": "An",
+    "TabVip": false,
+    "vip": true
+  },
+    {
+    "Game": "DHCD VN",
+    "UID": "5ac55d5d9713b4a9",
+    "Active": true,
+    "end_date": "31-10-2026",
+    "Status": "Trung Nguyễn",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "DHCD VN",
+    "UID": "cb9ea99ffba25e4e",
+    "Active": true,
+    "end_date": "31-08-2026",
+    "Status": "Vũ Thúy Hanh",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "fd2e406ac4f293ec",
+    "Active": true,
+    "end_date": "03-09-2026",
+    "Status": "Đàm Xuân Độ",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "f8cb4af141c94e4d",
+    "Active": true,
+    "end_date": "03-09-2026",
+    "Status": "Thiệu Nguyễn",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "53509fd062d3099e",
+    "Active": true,
+    "end_date": "04-09-2026",
+    "Status": "Hải Sơn",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "1d3fd0d45adf4d0e",
+    "Active": true,
+    "end_date": "12-08-2026",
+    "Status": "Hb",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "fd8e0970bc10f1ce",
+    "Active": true,
+    "end_date": "16-08-2026",
+    "Status": "Trân Châu",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "ddda2f7bb4ec6d2f",
+    "Active": true,
+    "end_date": "30-09-2026",
+    "Status": "Nguyen Binh Duy Khanh",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "a5122390135ca355",
+    "Active": true,
+    "end_date": "02-09-2026",
+    "Status": "Anh Hai Ty",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "f7c5cce38cf689bc",
+    "Active": true,
+    "end_date": "22-09-2026",
+    "Status": "Nguyễn Đình Tưởng",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "4ae193f96723f536",
+    "Active": true,
+    "end_date": "25-08-2026",
+    "Status": "Lộc",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "96e73d67e7ed170c",
+    "Active": true,
+    "end_date": "25-08-2099",
+    "Status": "ADMIN",
+    "TabVip": true,
+    "vip": true
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "04c80988995191ab",
+    "Active": false,
+    "end_date": "25-08-2026",
+    "Status": "Dũng Hà 2",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "6b3368d22afcc653",
+    "Active": true,
+    "end_date": "06-09-2026",
+    "Status": "Tuấn Nguyễn Hữu",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Gane": "ĐHCĐ VN",
+    "UID": "a5cc7eced8baec37",
+    "Active": true,
+    "end_date": "29-10-2026",
+    "Status": "Phi Khánh",
+    "TabVip": false,
+    "vip": false
+  },
+  
+  {
+    "Gane": "ĐHCĐ VN",
+    "UID": "8a2be253b35aa01a",
+    "Active": true,
+    "end_date": "06-09-2026",
+    "Status": "Xe Nước Mía Hồng Tú",
+    "TabVip": false,
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "d1ace1d112bbbb8a",
+    "Active": true,
+    "end_date": "08-09-2026",
+    "Status": "Hú",
+    "TabVip": false,
+    "vip": false
+  }
+
+
+
+
+]
