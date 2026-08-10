@@ -24,7 +24,7 @@
     "Game": "ĐHCĐ VN",
     "UID": "33973799df128523",
     "Active": true,
-    "end_date": "16-08-2026",
+    "end_date": "16-09-2026",
     "Status": "Lê Giáp",
     "vip": false
   },
@@ -259,6 +259,14 @@
     "Active": true,
     "end_date": "09-09-2026",
     "Status": "Quốc Trung",
+    "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "b3bd01aaa814b130",
+    "Active": true,
+    "end_date": "10-09-2026",
+    "Status": "Hú 2",
     "vip": false
   }
 
