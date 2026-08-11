@@ -195,15 +195,6 @@
   },
     {
     "Game": "ĐHCĐ VN",
-    "UID": "96e73d67e7ed170c",
-    "Active": true,
-    "end_date": "25-08-2099",
-    "Status": "ADMIN",
-    "TabVip": true,
-    "vip": true
-  },
-    {
-    "Game": "ĐHCĐ VN",
     "UID": "04c80988995191ab",
     "Active": false,
     "end_date": "25-08-2026",
@@ -250,7 +241,7 @@
   },
   {
     "Game": "ĐHCĐ VN",
-    "UID": "a67212bebe2c2415",
+    "UID": "edf6ac64e06e3eb0",
     "Active": true,
     "end_date": "25-08-2099",
     "Status": "ADMIN",
