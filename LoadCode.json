@@ -1,0 +1,9 @@
+[
+  {
+    "AutoWin": {
+      "Class": "BattleCore.Battle",
+      "Method": "BattleFinsh",
+      "Enum": "BattleCore.BattleEndReason"
+    }
+  }
+]
