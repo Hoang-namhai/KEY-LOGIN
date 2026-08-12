@@ -247,6 +247,15 @@
     "Status": "ADMIN",
     "TabVip": true,
     "vip": true
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "72cf2f1b620709a2",
+    "Active": true,
+    "end_date": "12-09-2026",
+    "Status": "Otto",
+    "TabVip": false,
+    "vip": false
   }
 
 
