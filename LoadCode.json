@@ -1,7 +1,7 @@
 [
   {
     "AW": {
-      "Label": "AUTO WIN",
+      "Label": "Con Cặc",
       "Class": "BattleCore.Battle",
       "Method": "BattleFinsh",
       "Enum": "BattleCore.BattleEndReason"
