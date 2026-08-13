@@ -26,7 +26,7 @@
     "Game": "ĐHCĐ VN",
     "UID": "33973799df128523",
     "Active": true,
-    "end_date": "16-08-2026",
+    "end_date": "16-09-2026",
     "Status": "Lê Giáp",
     "TabVip": false,
     "vip": false
@@ -65,13 +65,13 @@
     "end_date": "09-09-2026",
     "Status": "Ngocquang Nguyen",
     "TabVip": false,
-    "vip": false    
+    "vip": true    
   },
     {
     "Game": "ĐHCĐ VN",
     "UID": "ee330c6f63050d44",
     "Active": false,
-    "end_date": "11-08-2026",
+    "end_date": "11-10-2026",
     "Status": "Vì Nghèo Tôi Mất Em",
     "TabVip": false,
     "vip": false    
@@ -101,7 +101,7 @@
     "end_date": "31-10-2026",
     "Status": "Trung Nguyễn",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "DHCD VN",
@@ -128,7 +128,7 @@
     "end_date": "03-09-2026",
     "Status": "Thiệu Nguyễn",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
@@ -143,7 +143,7 @@
     "Game": "ĐHCĐ VN",
     "UID": "1d3fd0d45adf4d0e",
     "Active": true,
-    "end_date": "12-08-2026",
+    "end_date": "12-09-2026",
     "Status": "Hb",
     "TabVip": false,
     "vip": false
@@ -173,7 +173,7 @@
     "end_date": "02-09-2026",
     "Status": "Anh Hai Ty",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
@@ -182,7 +182,7 @@
     "end_date": "22-09-2026",
     "Status": "Nguyễn Đình Tưởng",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Gane": "ĐHCĐ VN",
@@ -191,7 +191,7 @@
     "end_date": "25-08-2026",
     "Status": "Lộc",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
@@ -209,7 +209,7 @@
     "end_date": "06-09-2026",
     "Status": "Tuấn Nguyễn Hữu",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Gane": "ĐHCĐ VN",
@@ -228,7 +228,7 @@
     "end_date": "06-09-2026",
     "Status": "Xe Nước Mía Hồng Tú",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
