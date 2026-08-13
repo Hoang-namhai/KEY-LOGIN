@@ -1,6 +1,6 @@
 [
   {
-    "AutoWin": {
+    "AW": {
       "Label": "AUTO WIN",
       "Class": "BattleCore.Battle",
       "Method": "BattleFinsh",
@@ -8,34 +8,34 @@
     }
   },
   {
-    "OneHit": {
+    "AH": {
       "Label": "One Hit All",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessHeadShot",
-      "Offsets": { "m_actor": "0x10" },
+      "Offsets": { "m_a": "0x10" },
       "EditBool": true
     }
   },
   {
-    "BuffDamage": {
+    "BD": {
       "Label": "Buff Damage",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessAtkVal",
-      "Offsets": { "m_actor": "0x10" },
+      "Offsets": { "m_a": "0x10" },
       "EditInt": 2147483647
     }
   },
   {
-    "MaxDamage": {
+    "MD": {
       "Label": "Damage Vip",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessFinalDamage",
-      "Offsets": { "m_actor": "0x10", "m_bigNumber": "0x10" },
+      "Offsets": { "m_a": "0x10", "m_bn": "0x10" },
       "EditInt": 9223372036854775807
     }
   },
   {
-    "SkillMax": {
+    "SM": {
       "Label": "Max Skill",
       "Class": "BattleCore.BuffManger",
       "Method": "OnCheckLearnRandomSkillAgain",
@@ -43,21 +43,17 @@
     }
   },
   {
-    "SkillVip": {
+    "SKV": {
       "Label": "Skill Vip",
       "Class": "BattleCore.SkillRuleEventHandle",
       "Method": "RandomSelectEnemy",
-      "Offsets": {
-        "m_elemData": "0x38",
-        "m_selectRandomEnemy": "0x58",
-        "m_shootCnt": "0x3C"
-      },
+      "Offsets": { "ed": "0x38", "sre": "0x58", "sc": "0x3C" },
       "Condition": 1,
       "EditInt": 25
     }
   },
   {
-    "SpeedGame": {
+    "SG": {
       "Label": "Speed Game",
       "Class": "A5Game.BattleSys",
       "Method": "set_TwiceSpeed",
@@ -65,38 +61,34 @@
     }
   },
   {
-    "GodMode": {
+    "GM": {
       "Label": "Bất Tử",
       "Class": "A5Game.BattleSys",
       "Method": "GetMainPlayerEntity",
-      "Offsets": { "m_hp": "0xA8" },
+      "Offsets": { "hp": "0xA8" },
       "EditInt": 888888
     }
   },
   {
-    "TimeEnd": {
+    "TE": {
       "Label": "Time End",
       "Class": "BattleCore.LevelMonsterMgr",
       "Method": "OnUpdate",
-      "Offsets": { "m_time": "0x54" },
+      "Offsets": { "tm": "0x54" },
       "EditInt": 800
     }
   },
   {
-    "Boss1HP": {
+    "B1": {
       "Label": "Boss 1 HP",
       "Class": "BattleCore.MonsterEntity",
       "Method": "OnCreate",
-      "Offsets": {
-        "m_actorData": "0xB0",
-        "m_hp": "0x60",
-        "m_maxHp": "0x64"
-      },
+      "Offsets": { "ad": "0xB0", "hp": "0x60", "mhp": "0x64" },
       "EditInt": 1
     }
   },
   {
-    "AutoFish": {
+    "AF": {
       "Label": "Auto Fish",
       "Subs": {
         "Premium": {
@@ -114,7 +106,7 @@
           "Method": "GetSkinStar",
           "EditInt": 10
         },
-        "TimeScale": {
+        "TS": {
           "Class": "UnityEngine.Time",
           "Method": "set_timeScale",
           "EditFloat": 10.0
@@ -123,25 +115,25 @@
     }
   },
   {
-    "NoAds": {
+    "NA": {
       "Label": "No Ads",
       "Subs": {
-        "Open": {
+        "OP": {
           "Class": "A5Game.WelfareDataMgr",
           "Method": "IsOpenAdPremium",
           "EditBool": true
         },
-        "WatchMax": {
+        "WM": {
           "Class": "A5Game.WelfareDataMgr",
           "Method": "IsCurAdVideoWatchMax",
           "EditBool": false
         },
-        "BoxIsGet": {
+        "BG": {
           "Class": "A5Game.WelfareDataMgr",
           "Method": "AdVideoPgBoxIsGet",
           "EditBool": false
         },
-        "Progress": {
+        "PR": {
           "Class": "A5Game.WelfareDataMgr",
           "Method": "get_AdvideoProgressVal",
           "EditInt": 999999
@@ -150,40 +142,40 @@
     }
   },
   {
-    "ComboBC": {
+    "BC": {
       "Label": "Combo Bí Cảnh",
       "Class": "BattleCore.BaizhanSecretScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "m_combo": "0x38" },
+      "Offsets": { "cb": "0x38" },
       "EditInt": 9999
     }
   },
   {
-    "ComboGT": {
+    "GT": {
       "Label": "Combo Gia Tộc",
       "Class": "BattleCore.JiaZuLianSaiScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "m_combo": "0x38" },
+      "Offsets": { "cb": "0x38" },
       "EditInt": 9999
     }
   },
   {
-    "ModKuangShi": {
+    "KS": {
       "Label": "Bồng Lai",
       "Class": "BattleCore.ActorBootyCmpt",
       "Method": "Awake",
-      "Offsets": { "m_value": "0x30" },
+      "Offsets": { "vl": "0x30" },
       "EditInt": 88888
     }
   },
   {
-    "MaxDamageBattle": {
+    "MDB": {
       "Label": "Damage Value:",
       "EditInt": 8888888
     }
   },
   {
-    "MaxDamageCuVo": {
+    "MDV": {
       "Label": "Damage Value:",
       "EditInt": 8888888
     }
