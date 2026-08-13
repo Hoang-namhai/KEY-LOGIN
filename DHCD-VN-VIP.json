@@ -70,7 +70,7 @@
     {
     "Game": "ĐHCĐ VN",
     "UID": "ee330c6f63050d44",
-    "Active": false,
+    "Active": true,
     "end_date": "11-10-2026",
     "Status": "Vì Nghèo Tôi Mất Em",
     "TabVip": false,
@@ -192,15 +192,6 @@
     "Status": "Lộc",
     "TabVip": false,
     "vip": true
-  },
-    {
-    "Game": "ĐHCĐ VN",
-    "UID": "04c80988995191ab",
-    "Active": false,
-    "end_date": "25-08-2026",
-    "Status": "Dũng Hà 2",
-    "TabVip": false,
-    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
