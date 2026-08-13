@@ -1,9 +1,9 @@
 [
   {
     "AW": {
-      "Label": "Con Cặc",
+      "Label": "Auto Win",
       "Class": "BattleCore.Battle",
-      "Method": "BattleFinsh",
+      "Method": "BattleFinsh000",
       "Enum": "BattleCore.BattleEndReason"
     }
   },
