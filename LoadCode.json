@@ -14,7 +14,7 @@
     "AW": {
       "Label": "Auto Win",
       "Class": "BattleCore.Battle",
-      "Method": "BattleFinsh000",
+      "Method": "BattleFinsh",
       "Enum": "BattleCore.BattleEndReason"
     }
   },
