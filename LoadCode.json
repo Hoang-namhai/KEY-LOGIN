@@ -1,5 +1,16 @@
 [
   {
+    "UI_Texts": {
+      "ServerStatus": "[  Server Đang Free Trải Nghiệm  ]",
+      "WindowTitle": "KING MOD VN - [VIP]",
+      "LoginTitle": "KingModVN - Đăng Nhập Hệ Thống",
+      "Version": "MOD ĐHCĐ VN | Phiên bản : 3.0",
+      "ZaloAdmin": "https://zalo.me/0375574755",
+      "ZaloGroup": "https://zalo.me/g/xdoohu820",
+      "Youtube": "https://youtube.com/@namhaipro002"
+    }
+  },
+  {
     "AW": {
       "Label": "Auto Win",
       "Class": "BattleCore.Battle",
@@ -13,7 +24,9 @@
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessHeadShot",
       "PC": "BattleCore.PlayerEntity",
-      "Offsets": { "m_a": "0x10" },
+      "Offsets": {
+        "m_a": "0x10"
+      },
       "EditBool": true
     }
   },
@@ -23,7 +36,9 @@
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessAtkVal",
       "PC": "BattleCore.PlayerEntity",
-      "Offsets": { "m_a": "0x10" },
+      "Offsets": {
+        "m_a": "0x10"
+      },
       "EditInt": 2147483647
     }
   },
@@ -33,7 +48,10 @@
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessFinalDamage",
       "PC": "BattleCore.PlayerEntity",
-      "Offsets": { "m_a": "0x10", "m_bn": "0x10" },
+      "Offsets": {
+        "m_a": "0x10",
+        "m_bn": "0x10"
+      },
       "EditInt": 9223372036854775807
     }
   },
@@ -50,7 +68,11 @@
       "Label": "Skill Vip",
       "Class": "BattleCore.SkillRuleEventHandle",
       "Method": "RandomSelectEnemy",
-      "Offsets": { "ed": "0x38", "sre": "0x58", "sc": "0x3C" },
+      "Offsets": {
+        "ed": "0x38",
+        "sre": "0x58",
+        "sc": "0x3C"
+      },
       "Condition": 1,
       "EditInt": 25
     }
@@ -69,7 +91,9 @@
       "Label": "Bất Tử",
       "Class": "A5Game.BattleSys",
       "Method": "GetMainPlayerEntity",
-      "Offsets": { "hp": "0xA8" },
+      "Offsets": {
+        "hp": "0xA8"
+      },
       "EditInt": 888888
     }
   },
@@ -78,7 +102,9 @@
       "Label": "Time End",
       "Class": "BattleCore.LevelMonsterMgr",
       "Method": "OnUpdate",
-      "Offsets": { "tm": "0x54" },
+      "Offsets": {
+        "tm": "0x54"
+      },
       "EditInt": 800
     }
   },
@@ -87,7 +113,11 @@
       "Label": "Boss 1 HP",
       "Class": "BattleCore.MonsterEntity",
       "Method": "OnCreate",
-      "Offsets": { "ad": "0xB0", "hp": "0x60", "mhp": "0x64" },
+      "Offsets": {
+        "ad": "0xB0",
+        "hp": "0x60",
+        "mhp": "0x64"
+      },
       "EditInt": 1
     }
   },
@@ -95,10 +125,26 @@
     "AF": {
       "Label": "Auto Fish",
       "Subs": {
-        "Premium": { "Class": "A5Game.FishermanDataMgr", "Method": "get_IsBuyPremiumCard", "EditBool": true },
-        "Skin": { "Class": "A5Game.FishermanDataMgr", "Method": "get_DaZuiShouCurSkinID", "EditInt": 100 },
-        "SkinStar": { "Class": "A5Game.FishermanDataMgr", "Method": "GetSkinStar", "EditInt": 10 },
-        "TS": { "Class": "UnityEngine.Time", "Method": "set_timeScale", "EditFloat": 10.0 }
+        "Premium": {
+          "Class": "A5Game.FishermanDataMgr",
+          "Method": "get_IsBuyPremiumCard",
+          "EditBool": true
+        },
+        "Skin": {
+          "Class": "A5Game.FishermanDataMgr",
+          "Method": "get_DaZuiShouCurSkinID",
+          "EditInt": 100
+        },
+        "SkinStar": {
+          "Class": "A5Game.FishermanDataMgr",
+          "Method": "GetSkinStar",
+          "EditInt": 10
+        },
+        "TS": {
+          "Class": "UnityEngine.Time",
+          "Method": "set_timeScale",
+          "EditFloat": 10.0
+        }
       }
     }
   },
@@ -106,10 +152,26 @@
     "NA": {
       "Label": "No Ads",
       "Subs": {
-        "OP": { "Class": "A5Game.WelfareDataMgr", "Method": "IsOpenAdPremium", "EditBool": true },
-        "WM": { "Class": "A5Game.WelfareDataMgr", "Method": "IsCurAdVideoWatchMax", "EditBool": false },
-        "BG": { "Class": "A5Game.WelfareDataMgr", "Method": "AdVideoPgBoxIsGet", "EditBool": false },
-        "PR": { "Class": "A5Game.WelfareDataMgr", "Method": "get_AdvideoProgressVal", "EditInt": 999999 }
+        "OP": {
+          "Class": "A5Game.WelfareDataMgr",
+          "Method": "IsOpenAdPremium",
+          "EditBool": true
+        },
+        "WM": {
+          "Class": "A5Game.WelfareDataMgr",
+          "Method": "IsCurAdVideoWatchMax",
+          "EditBool": false
+        },
+        "BG": {
+          "Class": "A5Game.WelfareDataMgr",
+          "Method": "AdVideoPgBoxIsGet",
+          "EditBool": false
+        },
+        "PR": {
+          "Class": "A5Game.WelfareDataMgr",
+          "Method": "get_AdvideoProgressVal",
+          "EditInt": 999999
+        }
       }
     }
   },
@@ -118,7 +180,9 @@
       "Label": "Combo Bí Cảnh:",
       "Class": "BattleCore.BaizhanSecretScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "cb": "0x38" },
+      "Offsets": {
+        "cb": "0x38"
+      },
       "EditInt": 9999
     }
   },
@@ -127,7 +191,9 @@
       "Label": "Combo Gia Tộc:",
       "Class": "BattleCore.JiaZuLianSaiScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "cb": "0x38" },
+      "Offsets": {
+        "cb": "0x38"
+      },
       "EditInt": 9999
     }
   },
@@ -136,7 +202,9 @@
       "Label": "Bồng Lai",
       "Class": "BattleCore.ActorBootyCmpt",
       "Method": "Awake",
-      "Offsets": { "vl": "0x30" },
+      "Offsets": {
+        "vl": "0x30"
+      },
       "EditInt": 88888
     }
   },
