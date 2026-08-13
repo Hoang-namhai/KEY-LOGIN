@@ -12,7 +12,10 @@
       "Label": "One Hit All",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessHeadShot",
-      "Offsets": { "m_a": "0x10" },
+      "PC": "BattleCore.PlayerEntity",
+      "Offsets": {
+        "m_a": "0x10"
+      },
       "EditBool": true
     }
   },
@@ -21,7 +24,10 @@
       "Label": "Buff Damage",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessAtkVal",
-      "Offsets": { "m_a": "0x10" },
+      "PC": "BattleCore.PlayerEntity",
+      "Offsets": {
+        "m_a": "0x10"
+      },
       "EditInt": 2147483647
     }
   },
@@ -30,7 +36,11 @@
       "Label": "Damage Vip",
       "Class": "BattleCore.BuffManger",
       "Method": "ProcessFinalDamage",
-      "Offsets": { "m_a": "0x10", "m_bn": "0x10" },
+      "PC": "BattleCore.PlayerEntity",
+      "Offsets": {
+        "m_a": "0x10",
+        "m_bn": "0x10"
+      },
       "EditInt": 9223372036854775807
     }
   },
@@ -47,7 +57,11 @@
       "Label": "Skill Vip",
       "Class": "BattleCore.SkillRuleEventHandle",
       "Method": "RandomSelectEnemy",
-      "Offsets": { "ed": "0x38", "sre": "0x58", "sc": "0x3C" },
+      "Offsets": {
+        "ed": "0x38",
+        "sre": "0x58",
+        "sc": "0x3C"
+      },
       "Condition": 1,
       "EditInt": 25
     }
@@ -65,7 +79,9 @@
       "Label": "Bất Tử",
       "Class": "A5Game.BattleSys",
       "Method": "GetMainPlayerEntity",
-      "Offsets": { "hp": "0xA8" },
+      "Offsets": {
+        "hp": "0xA8"
+      },
       "EditInt": 888888
     }
   },
@@ -74,7 +90,9 @@
       "Label": "Time End",
       "Class": "BattleCore.LevelMonsterMgr",
       "Method": "OnUpdate",
-      "Offsets": { "tm": "0x54" },
+      "Offsets": {
+        "tm": "0x54"
+      },
       "EditInt": 800
     }
   },
@@ -83,7 +101,11 @@
       "Label": "Boss 1 HP",
       "Class": "BattleCore.MonsterEntity",
       "Method": "OnCreate",
-      "Offsets": { "ad": "0xB0", "hp": "0x60", "mhp": "0x64" },
+      "Offsets": {
+        "ad": "0xB0",
+        "hp": "0x60",
+        "mhp": "0x64"
+      },
       "EditInt": 1
     }
   },
@@ -146,7 +168,9 @@
       "Label": "Combo Bí Cảnh",
       "Class": "BattleCore.BaizhanSecretScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "cb": "0x38" },
+      "Offsets": {
+        "cb": "0x38"
+      },
       "EditInt": 9999
     }
   },
@@ -155,7 +179,9 @@
       "Label": "Combo Gia Tộc",
       "Class": "BattleCore.JiaZuLianSaiScoreDataMgr",
       "Method": "UpdateContinuousKillState",
-      "Offsets": { "cb": "0x38" },
+      "Offsets": {
+        "cb": "0x38"
+      },
       "EditInt": 9999
     }
   },
@@ -164,7 +190,9 @@
       "Label": "Bồng Lai",
       "Class": "BattleCore.ActorBootyCmpt",
       "Method": "Awake",
-      "Offsets": { "vl": "0x30" },
+      "Offsets": {
+        "vl": "0x30"
+      },
       "EditInt": 88888
     }
   },
