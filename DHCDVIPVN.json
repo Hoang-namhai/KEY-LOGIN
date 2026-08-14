@@ -219,7 +219,7 @@
     "end_date": "06-09-2026",
     "Status": "Xe Nước Mía Hồng Tú",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
@@ -228,7 +228,7 @@
     "end_date": "08-10-2026",
     "Status": "Hú",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
   {
     "Game": "ĐHCĐ VN",
