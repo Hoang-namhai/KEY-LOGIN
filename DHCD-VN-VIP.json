@@ -236,7 +236,7 @@
     "Active": true,
     "end_date": "25-08-2099",
     "Status": "ADMIN",
-    "TabVip": true,
+    "TabVip": false,
     "vip": true
   },
     {
