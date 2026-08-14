@@ -33,12 +33,12 @@
   },
   {
     "Game": "ĐHCĐ VN",
-    "UID": "dc42b7d86d32f1a5",
+    "UID": "d2f45ccbe54e69b5",
     "Active": true,
     "end_date": "27-10-2026",
     "Status": "Huyy Huyy",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
   {
     "Game": "VIPĐHCĐ",
