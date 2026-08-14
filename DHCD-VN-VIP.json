@@ -24,7 +24,7 @@
   },
   {
     "Game": "ĐHCĐ VN",
-    "UID": "c124a47f8a1b09a3",
+    "UID": "33973799df128523",
     "Active": true,
     "end_date": "16-09-2026",
     "Status": "Lê Giáp",
@@ -56,7 +56,7 @@
     "end_date": "07-09-2026",
     "Status": "Đỗ Hậu",
     "TabVip": false,
-    "vip": true  
+    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
@@ -65,7 +65,7 @@
     "end_date": "09-09-2026",
     "Status": "Ngocquang Nguyen",
     "TabVip": false,
-    "vip": true    
+    "vip": false    
   },
     {
     "Game": "ĐHCĐ VN",
@@ -101,7 +101,7 @@
     "end_date": "31-10-2026",
     "Status": "Trung Nguyễn",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Game": "DHCD VN",
@@ -123,12 +123,12 @@
   },
     {
     "Game": "ĐHCĐ VN",
-    "UID": "f8cb4af141c94e4d",
+    "UID": "9b5a6c2cc6c053a9",
     "Active": true,
     "end_date": "03-09-2026",
     "Status": "Thiệu Nguyễn",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
@@ -173,7 +173,7 @@
     "end_date": "02-09-2026",
     "Status": "Anh Hai Ty",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
@@ -182,7 +182,7 @@
     "end_date": "22-09-2026",
     "Status": "Nguyễn Đình Tưởng",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Gane": "ĐHCĐ VN",
@@ -191,7 +191,7 @@
     "end_date": "25-08-2026",
     "Status": "Lộc",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
@@ -200,11 +200,11 @@
     "end_date": "06-09-2026",
     "Status": "Tuấn Nguyễn Hữu",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Gane": "ĐHCĐ VN",
-    "UID": "c1e5d0802350639c",
+    "UID": "a5cc7eced8baec37",
     "Active": true,
     "end_date": "29-10-2026",
     "Status": "Phi Khánh",
@@ -219,7 +219,7 @@
     "end_date": "06-09-2026",
     "Status": "Xe Nước Mía Hồng Tú",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
     {
     "Game": "ĐHCĐ VN",
@@ -228,7 +228,7 @@
     "end_date": "08-10-2026",
     "Status": "Hú",
     "TabVip": false,
-    "vip": true
+    "vip": false
   },
   {
     "Game": "ĐHCĐ VN",
