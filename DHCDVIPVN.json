@@ -256,6 +256,15 @@
     "Status": "Vương",
     "TabVip": false,
     "vip": false
+  } 
+      {
+    "Game": "ĐHCĐ VN",
+    "UID": "37667d3b6f726862",
+    "Active": true,
+    "end_date": "09-09-2026",
+    "Status": "Quốc Trung",
+    "TabVip": false,
+    "vip": false
   }
 
 
