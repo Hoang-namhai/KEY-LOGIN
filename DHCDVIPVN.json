@@ -186,12 +186,12 @@
   },
     {
     "Gane": "ĐHCĐ VN",
-    "UID": "4ae193f96723f536",
+    "UID": "c0ad5bfddd84f697",
     "Active": true,
     "end_date": "25-08-2026",
     "Status": "Lộc",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
     {
     "Game": "ĐHCĐ VN",
