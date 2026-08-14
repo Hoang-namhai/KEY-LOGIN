@@ -204,12 +204,12 @@
   },
     {
     "Gane": "ĐHCĐ VN",
-    "UID": "a5cc7eced8baec37",
+    "UID": "c1e5d0802350639c",
     "Active": true,
     "end_date": "29-10-2026",
     "Status": "Phi Khánh",
     "TabVip": false,
-    "vip": false
+    "vip": true
   },
   
   {
