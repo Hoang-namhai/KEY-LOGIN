@@ -265,6 +265,15 @@
     "Status": "Quốc Trung",
     "TabVip": false,
     "vip": false
+  },
+    {
+    "Game": "ĐHCĐ VN",
+    "UID": "ad1077f0782d0c65",
+    "Active": true,
+    "end_date": "15-09-2026",
+    "Status": "Nguyễn Đăng Dũng",
+    "TabVip": false,
+    "vip": true
   }
 
 
