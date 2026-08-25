@@ -71,7 +71,7 @@
       "Offsets": {
         "ed": "0x38",
         "sre": "0x58",
-        "sc": "0x3C"
+        "sc": "0x4C"
       },
       "Condition": 1,
       "EditInt": 25
