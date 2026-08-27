@@ -223,6 +223,10 @@
   {
     "TAMV": {
       "Label": "Trấn Áp Ma Vật",
+      "Offsets": {
+        "val54": "0x54",
+        "val74": "0x74"
+      },
       "EditInt54": 9999,
       "EditInt74": 1,
       "Min74": 0,
