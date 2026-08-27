@@ -219,5 +219,14 @@
       "Label": "Damage Value:",
       "EditInt": 8888888
     }
+  },
+  {
+    "TAMV": {
+      "Label": "Trấn Áp Ma Vật",
+      "EditInt54": 9999,
+      "EditInt74": 1,
+      "Min74": 0,
+      "Max74": 50
+    }
   }
 ]
