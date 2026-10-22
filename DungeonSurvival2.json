@@ -11,6 +11,14 @@
     "end_date": "31-12-9999",
     "Status": "ADMIN",
     "vip": true
+  },
+    {
+    "Game": "Dungeon Survival 2",
+    "UID": "4e03730f83af1c6e",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "Tấn Phát",
+    "vip": true
   }
 
 ]
