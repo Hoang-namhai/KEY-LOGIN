@@ -4,28 +4,28 @@
     "Free": false,
     "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\n𝚂ᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
   },
-    {
-    "Key": "0609",
-    "UID": "5fb58f44fd3e9346",
-    "Active": true,
-    "end_date": "31-12-9999",
-    "Status": "Tấn Phát 2",
-    "vip": true
-  },
   {
-    "Key": "0609",
+    "Game": "Dungeon Survival 2",
     "UID": "041634795c77960c",
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "Hoàng Nam Hải",
     "vip": true
   },
-    {
-    "Key": "0609",
+  {
+    "Game": "Dungeon Survival 2",
     "UID": "4e03730f83af1c6e",
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "Tấn Phát",
+    "vip": true
+  },
+  {
+    "Game": "Dungeon Survival 2",
+    "UID": "5fb58f44fd3e9346",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "Tấn Phát 2",
     "vip": true
   }
 
