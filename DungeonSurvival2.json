@@ -1,7 +1,7 @@
 [
   {
     "Server": true,
-    "Free": true,
+    "Free": false,
     "StatusAll": "ᴀᴅᴍɪɴ ᴛʜᴏ̂ɴɢ ʙᴀ́ᴏ!\n𝚂ᴇʀᴠᴇʀ ᴆᴀɴɢ ʙᴀ̉ᴏ ᴛʀɪ̀ ᴜᴘᴅᴀᴛᴇ.\nʟʜ ᴀᴅᴍɪɴ ᴆᴇ̂̉ ᴛᴀ̉ɪ ʙᴀ̉ɴ ᴜᴘᴅᴀᴛᴇ ᴍᴏ̛́ɪ.\nxɪɴ ᴄᴀ̉ᴍ ᴏ̛ɴ!!!"
   },
   {
@@ -10,7 +10,7 @@
     "Active": true,
     "end_date": "31-12-9999",
     "Status": "ADMIN",
-    "vip": true
+    "vip": false
   },
     {
     "Game": "Dungeon Survival 2",
