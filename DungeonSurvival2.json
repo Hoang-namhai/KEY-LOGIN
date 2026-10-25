@@ -27,6 +27,14 @@
     "end_date": "31-12-9999",
     "Status": "Tấn Phát 2",
     "vip": true
+  },
+  {
+    "Game": "Dungeon Survival 2",
+    "UID": "2d7ebf1dd998def1",
+    "Active": true,
+    "end_date": "31-12-9999",
+    "Status": "Tấn Phát 3",
+    "vip": true
   }
 
 ]
