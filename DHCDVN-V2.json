@@ -300,6 +300,14 @@
     "end_date": "28-11-2026",
     "Status": "Ninh",
     "vip": false
+  },
+  {
+    "Game": "DHCD VN",
+    "UID": "59c0377654d5ff13",
+    "Active": true,
+    "end_date": "29-11-2026",
+    "Status": "Lộc",
+    "vip": false
   }
 
 
