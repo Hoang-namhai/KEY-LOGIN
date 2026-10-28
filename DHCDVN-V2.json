@@ -292,6 +292,14 @@
     "Status": "A Tươi",
     "TabVip": false,
     "vip": true
+  },
+  {
+    "Game": "DHCD VN",
+    "UID": "3960c611207583bb",
+    "Active": true,
+    "end_date": "28-11-2026",
+    "Status": "Ninh",
+    "vip": false
   }
 
 
